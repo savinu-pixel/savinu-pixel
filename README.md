@@ -10,8 +10,6 @@
 
 <br/>
 
-🎓 **University of Peradeniya, Sri Lanka**
-
 </div>
 
 ---
@@ -24,15 +22,6 @@ Role:       Mechanical Engineering Undergraduate
 University: University of Peradeniya, Sri Lanka
 Interests:  Data Science · Machine Learning · Engineering Simulation
 ```
-
-- 🔧 Exploring the intersection of **Mechanical Engineering** and **Technology**
-- 📊 Diving deep into **Data Science** and **Machine Learning**
-- 💻 Building practical projects with **Python**
-- 🧪 Simulating real-world problems with **ANSYS**
-- 🌱 Currently leveling up in **ML algorithms** and **data visualization**
-- 🤝 Open to collaborating on **engineering + data** projects
-
----
 
 ## 🛠️ Tech Stack
 
